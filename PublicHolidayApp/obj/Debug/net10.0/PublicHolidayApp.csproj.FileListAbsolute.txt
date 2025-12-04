@@ -1,0 +1,14 @@
+C:\Users\90505\Desktop\PublicHolidayApp\bin\Debug\net10.0\PublicHolidayApp.exe
+C:\Users\90505\Desktop\PublicHolidayApp\bin\Debug\net10.0\PublicHolidayApp.deps.json
+C:\Users\90505\Desktop\PublicHolidayApp\bin\Debug\net10.0\PublicHolidayApp.runtimeconfig.json
+C:\Users\90505\Desktop\PublicHolidayApp\bin\Debug\net10.0\PublicHolidayApp.dll
+C:\Users\90505\Desktop\PublicHolidayApp\bin\Debug\net10.0\PublicHolidayApp.pdb
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.AssemblyInfoInputs.cache
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.AssemblyInfo.cs
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.dll
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\refint\PublicHolidayApp.dll
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.pdb
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\PublicHolidayApp.genruntimeconfig.cache
+C:\Users\90505\Desktop\PublicHolidayApp\obj\Debug\net10.0\ref\PublicHolidayApp.dll
